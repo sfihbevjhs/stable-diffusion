@@ -1,0 +1,11 @@
+# Font Files Placeholder
+
+This directory should contain:
+- PlayfairDisplay-Regular.ttf
+- PlayfairDisplay-Medium.ttf  
+- Inter-Regular.ttf
+- Inter-Medium.ttf
+
+You can download these fonts from:
+- Playfair Display: https://fonts.google.com/specimen/Playfair+Display
+- Inter: https://fonts.google.com/specimen/Inter
